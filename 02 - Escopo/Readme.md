@@ -1,12 +1,12 @@
 # Conteúdo da aula:
 Aula: 10/08
 
-- Gerenciamento de Escopo: [pdf](pdf/GP-02-GerenciamentoEscopo.pdf)
+- Gerenciamento de Escopo: [pdf](GP-02-GerenciamentoEscopo.pdf)
 - Notas:
-    - Estrutura Analítica do Projeto: [[Notas/EAP.md]]
-    - Termo de Abertura do Projeto (TAP): [[Notas/TAP.md]]
-    - Estapas do Escopo: [[Notas/Etapas.md]]
-    - Gerenciamento do Escopo: [[Notas/Gerenciamento.md]]
+    - Estrutura Analítica do Projeto: [[Github/Gerenciamento_de_projetos/02 - Escopo/Notas/EAP]]
+    - Termo de Abertura do Projeto (TAP): [[Github/Gerenciamento_de_projetos/02 - Escopo/Notas/TAP]]
+    - Estapas do Escopo: [[Etapas]]
+    - Gerenciamento do Escopo: [[Gerenciamento]]
 
 Video do Youtube para auxiliar: [Video](https://www.youtube.com/watch?v=pB7qju41J_k&authuser=0)
 
@@ -25,4 +25,4 @@ Grupos montados:
 
 Os modelos do Projeto estão na pasta **Docs**
 
-[[atividade/tap.md]]
+[[Github/Gerenciamento_de_projetos/02 - Escopo/atividade/tap]]
